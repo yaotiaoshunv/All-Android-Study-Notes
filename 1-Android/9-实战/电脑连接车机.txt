@@ -1,0 +1,12 @@
+连网线  配置以太网  192.168.1.1 255.255.255.0  192.168.1.4
+断wifi
+
+ssh root@192.168.1.4     
+yes
+root
+openFW.sh
+iptables -F
+iptables -P FORWARD ACCEPT
+exit
+
+adb connect 192.168.2.2

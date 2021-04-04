@@ -1,0 +1,24 @@
+在线源码：
+https://www.androidos.net.cn/sourcecode
+
+sdk：
+https://www.php.cn/manual/view/15934.html	（Android中文手册）
+
+blog：
+http://gityuan.com/
+
+Android社区：
+
+http://www.androidchina.net/	（关注源码下载板块：http://www.androidchina.net/11584.html）
+http://www.androidchina.net/10983.html
+http://www.jizhuomi.com/android/book/
+https://www.epubit.com/books
+https://www.wanandroid.com/article/list/0?cid=126
+https://www.jb51.cc/mobile/index_8.html
+https://www.androiddevtools.cn/
+https://juejin.cn/post/6905226221357891592#heading-14
+
+https://zhuanlan.zhihu.com/p/20708611
+
+课程：
+https://kaiwu.lagou.com/course/courseInfo.htm?courseId=67#/detail/pc?id=1857

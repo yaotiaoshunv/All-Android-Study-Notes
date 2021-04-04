@@ -1,0 +1,23 @@
+屏幕适配
+自定义View
+ViewGroup
+APK加固
+热修复
+组件化
+插件化
+皮肤换肤
+leadCanary
+Hilt
+jetpack
+glide
+okHttp
+RxJava。。。
+
+Java基础、多线程、泛型、反射、IO、异常处理、集合框架等，
+安卓基础、组件、异步调用、绘制流畅、触摸事件
+三方库：Gson，FastJson，EventBus，Volley，Okhttp ，Glide，Fresco，ButterKnife 原理和作用
+
+https://www.jianshu.com/p/c29df136cbb1
+
+
+龙天论坛（www.lthack.com）必须关注，里面资源很多
